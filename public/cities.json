@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Sofia",
+        "temperature": "20C"
+    },
+    {
+        "name": "Pleven",
+        "temperature": "19C"
+    },
+    {
+        "name": "Varna",
+        "temperature": "22C"
+    },
+    {
+        "name": "Plovdiv",
+        "temperature": "18C"
+    }
+]
